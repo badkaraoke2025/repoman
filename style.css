@@ -1,6 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
-body {background-color: #ebebeb;}
+body {background-color: #000000;}
 p {font-family: verdana;font-size: 26;color: #ff0800;font-weight: 300;}
 p.important {font-family: verdana;font-size: 26;color: #000000;font-weight: 500;text-decoration: underline}
 figure {
