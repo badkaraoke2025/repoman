@@ -39,7 +39,7 @@ figcaption {
 }
 .layout {
   display: grid;
-  grid-template-columns: 33% 67%;  
+  grid-template-columns: 40% 60%;  
   grid-template-rows: auto 1fr auto;
   min-height: 300px;
 }
